@@ -1,0 +1,10 @@
+F:\Faculdade\Construção de Software\Cadastro de Horario\Cadastro de horario - Modulo Desktop\Cadastro de horario - Modulo Desktop\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Faculdade\Construção de Software\Cadastro de Horario\Cadastro de horario - Modulo Desktop\Cadastro de horario - Modulo Desktop\obj\x86\Debug\Cadastro_de_horario___Modulo_Desktop.Telas.Form1.resources
+F:\Faculdade\Construção de Software\Cadastro de Horario\Cadastro de horario - Modulo Desktop\Cadastro de horario - Modulo Desktop\obj\x86\Debug\Cadastro_de_horario___Modulo_Desktop.Properties.Resources.resources
+F:\Faculdade\Construção de Software\Cadastro de Horario\Cadastro de horario - Modulo Desktop\Cadastro de horario - Modulo Desktop\obj\x86\Debug\Cadastro_de_horario___Modulo_Desktop.Telas.frmVisualizarHorario.resources
+F:\Faculdade\Construção de Software\Cadastro de Horario\Cadastro de horario - Modulo Desktop\Cadastro de horario - Modulo Desktop\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Faculdade\Construção de Software\Cadastro de Horario\Cadastro de horario - Modulo Desktop\Cadastro de horario - Modulo Desktop\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Faculdade\Construção de Software\Cadastro de Horario\Cadastro de horario - Modulo Desktop\Cadastro de horario - Modulo Desktop\bin\Debug\Cadastro de horario - Modulo Desktop.exe
+F:\Faculdade\Construção de Software\Cadastro de Horario\Cadastro de horario - Modulo Desktop\Cadastro de horario - Modulo Desktop\bin\Debug\Cadastro de horario - Modulo Desktop.pdb
+F:\Faculdade\Construção de Software\Cadastro de Horario\Cadastro de horario - Modulo Desktop\Cadastro de horario - Modulo Desktop\obj\x86\Debug\Cadastro de horario - Modulo Desktop.exe
+F:\Faculdade\Construção de Software\Cadastro de Horario\Cadastro de horario - Modulo Desktop\Cadastro de horario - Modulo Desktop\obj\x86\Debug\Cadastro de horario - Modulo Desktop.pdb
