@@ -10,7 +10,7 @@ public class ConexaoMySQL {
     public static void main(String[] args) throws InstantiationException, IllegalAccessException {
 
         String driver = "com.mysql.jdbc.Driver";
-        String url = "jdbc:mysql://www.leonardoalves.info:3306/leonar11_projetos?zeroDateTimeBehavior=convertToNull";
+        String url = "jdbc:mysql://www.leonardoalves.info:3306/leonar11_projetos";
         String usuario = "leonar11_bdaula";
         String senha = "aulabd";
 
@@ -19,8 +19,7 @@ public class ConexaoMySQL {
             Class.forName(driver).newInstance();
             Connection con = null;
 
-            con = DriverManager.getConnection("jdbc:mysql://www.leonardoalves.info:3306/leonar11_projetos?zeroDateTimeBehavior=convertToNull"
-                    + "user=leonar11_bdaula&password=aulabd");
+            con = DriverManager.getConnection(url, usuario, senha);
 
             System.out.println("Conexão realizada com sucesso.");
 
